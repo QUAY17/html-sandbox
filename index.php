@@ -10,11 +10,11 @@
 	</head>
 	<body>
 		<header>
-		<h1>This is a demo page!</h1>
+		<h1 class="heading">This is a demo page!</h1>
 		</header>
 		<main>
 
-			<p>rikers ipsum</p>
+			<p id="description">rikers ipsum</p>
 
 		<h2>A Few of my Favorite Things</h2>
 			<!-- This is a cheeky comment-->
@@ -48,6 +48,9 @@
 			<img src="images/catdog.jpg" alt="cat dog">
 
 			<p>This is a link to <a href="https://google.com" target="_blank">Google</a>.</p>
+
+			<div>This content is in a &lt;div&gt;</div>
+			<span>This is in a &lt;span&gt;</span>
 		</main>
 	</body>
 </html>
